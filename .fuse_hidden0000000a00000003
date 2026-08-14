@@ -24,7 +24,7 @@
       <a href="index.html" class="active">Home</a>
       <a href="services.html">Services</a>
       <a href="homeowners.html">Homeowners</a>
-      <a href="#contact">Contact</a>
+      <a href="index.html#calculator">Rate Calculator</a>
     </nav>
     <div class="nav__cta">
       <a class="nav__phone" href="tel:7044673031">
@@ -42,7 +42,7 @@
   <a href="index.html">Home</a>
   <a href="services.html">Services</a>
   <a href="homeowners.html">Homeowners</a>
-  <a href="#contact">Contact</a>
+  <a href="index.html#calculator">Rate Calculator</a>
   <a class="btn btn-gold" href="#contact">Get Started</a>
 </div>
 
@@ -238,7 +238,7 @@
           <li><a href="index.html">Home</a></li>
           <li><a href="services.html">Services</a></li>
           <li><a href="homeowners.html">Homeowners</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="index.html#calculator">Rate Calculator</a></li>
         </ul>
       </div>
       <div>

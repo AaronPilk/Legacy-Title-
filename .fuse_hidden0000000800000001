@@ -24,7 +24,7 @@
       <a href="index.html" class="active">Home</a>
       <a href="services.html">Services</a>
       <a href="homeowners.html">Homeowners</a>
-      <a href="#contact">Contact</a>
+      <a href="index.html#calculator">Rate Calculator</a>
     </nav>
     <div class="nav__cta">
       <a class="nav__phone" href="tel:7044673031">
@@ -42,7 +42,7 @@
   <a href="index.html">Home</a>
   <a href="services.html">Services</a>
   <a href="homeowners.html">Homeowners</a>
-  <a href="#contact">Contact</a>
+  <a href="index.html#calculator">Rate Calculator</a>
   <a class="btn btn-gold" href="#contact">Get Started</a>
 </div>
 
@@ -55,7 +55,7 @@
       <h1 class="reveal" data-d="1">Title done right.<br><span class="accent">Closings done fast.</span></h1>
       <p class="hero__sub reveal" data-d="2">Full-service residential and commercial title insurance for every county in North and South Carolina — accurate reports, complex issues resolved, and a team that answers nights and weekends.</p>
       <div class="hero__actions reveal" data-d="3">
-        <a class="btn btn-gold" href="#contact">Start your order
+        <a class="btn btn-gold" href="#calculator">Estimate my rate
           <svg class="arw" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
         </a>
         <a class="btn btn-ghost" href="services.html">Explore services</a>
@@ -202,6 +202,50 @@
   </div>
 </section>
 
+<!-- RATE CALCULATOR -->
+<section id="calculator">
+  <div class="wrap">
+    <div class="section-head center reveal">
+      <span class="eyebrow">Rate calculator</span>
+      <h2>Estimate your title insurance cost.</h2>
+      <p class="lead">In NC &amp; SC the rate is the same no matter which company you use — so choose experience. Get a ballpark estimate below.</p>
+    </div>
+    <div class="calc reveal" id="calc">
+      <div class="calc__grid">
+        <div>
+          <div style="margin-bottom:1.3rem">
+            <label>I need a quote for</label>
+            <div class="seg" role="tablist">
+              <button class="on" data-mode="both">Owner + Lender</button>
+              <button data-mode="owner">Owner only</button>
+              <button data-mode="lender">Lender only</button>
+            </div>
+          </div>
+          <div class="field">
+            <label for="calc-price">Purchase price</label>
+            <span class="pfx">$</span>
+            <input id="calc-price" type="number" min="0" step="1000" value="300000" inputmode="numeric">
+          </div>
+          <div class="field">
+            <label for="calc-loan">Loan amount</label>
+            <span class="pfx">$</span>
+            <input id="calc-loan" type="number" min="0" step="1000" value="240000" inputmode="numeric">
+          </div>
+        </div>
+        <div class="calc__result">
+          <small>Estimated premium</small>
+          <div class="amount" id="calc-amount"><b>$2,250</b></div>
+          <div class="rangeline" id="calc-range">Estimated range $1,500 – $3,000</div>
+          <a class="btn btn-gold" href="#contact" style="margin-top:1.5rem">Get an exact quote
+            <svg class="arw" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </a>
+        </div>
+      </div>
+      <p class="calc__note">Estimates use ALTA's rule of thumb (owner + lender policies together typically run about 0.5%–1.0% of the purchase price — roughly $1,500–$3,000 on a $300,000 home). Actual premiums vary by transaction. Contact us for an exact figure.</p>
+    </div>
+  </div>
+</section>
+
 <!-- CONTACT / CTA -->
 <section id="contact">
   <div class="wrap">
@@ -238,7 +282,7 @@
           <li><a href="index.html">Home</a></li>
           <li><a href="services.html">Services</a></li>
           <li><a href="homeowners.html">Homeowners</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="index.html#calculator">Rate Calculator</a></li>
         </ul>
       </div>
       <div>
