@@ -1,5 +1,4 @@
 #!/bin/bash
-# Legacy Group Title - fetch brand images from the live site, then commit & push.
 cd "$(dirname "$0")" || exit 1
 mkdir -p assets/img
 B="https://static.wixstatic.com/media"
@@ -14,10 +13,12 @@ dl "$B/38906d_e5b3aea34aae4d93b5b921743fde3c30~mv2.png" assets/img/services-3.pn
 dl "$B/38906d_e33374b86f4c496bafdd3428739ac006~mv2.jpg" assets/img/services-4.jpg
 dl "$B/11062b_a263f5ae601747f58337e307d6fba42e~mv2.jpg" assets/img/homeowners-1.jpg
 dl "$B/20d96b8914684d518f06a78461f89cca.jpg"           assets/img/homeowners-2.jpg
+dl "$B/38906d_a302030c221649c1ba9649da36d9611e~mv2.png" assets/img/desk.png
 echo "Optimizing (macOS sips)..."
 sips -s format jpeg assets/img/services-3.png --out assets/img/services-3.jpg >/dev/null 2>&1 && rm -f assets/img/services-3.png
+sips -s format jpeg assets/img/desk.png       --out assets/img/desk.jpg       >/dev/null 2>&1 && rm -f assets/img/desk.png
 sips -Z 64  assets/img/logo.png --out assets/img/favicon.png >/dev/null 2>&1
-for f in hero-lakeside services-1 services-2 services-3 services-4 homeowners-1 homeowners-2; do sips -Z 1800 "assets/img/$f.jpg" >/dev/null 2>&1; done
+for f in hero-lakeside services-1 services-2 services-3 services-4 homeowners-1 homeowners-2 desk; do sips -Z 2000 "assets/img/$f.jpg" >/dev/null 2>&1; done
 sips -Z 900 assets/img/wfg-logo.jpg >/dev/null 2>&1
 echo "Committing & pushing..."
 if [ ! -d .git ]; then git init -q; git branch -M main; git remote add origin https://github.com/AaronPilk/Legacy-Title-.git; fi
