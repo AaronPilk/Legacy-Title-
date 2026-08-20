@@ -40,7 +40,7 @@
   <div class="wrap subhero__inner">
     <span class="eyebrow reveal">For homeowners</span>
     <h1 class="reveal" data-d="1">Protecting your biggest investment.</h1>
-    <p class="reveal" data-d="2">Whether you're buying or selling, Legacy Group Title makes sure your ownership is clear and your title is protected. Here's what to know.</p>
+    <p class="reveal" data-d="2">Whether you're buying or selling, Legacy Title makes sure your ownership is clear and your title is protected. Here's what to know.</p>
     <div class="tabs reveal" data-d="3">
       <a href="#buyers">Buyers</a>
       <a href="#sellers">Sellers</a>
@@ -64,7 +64,7 @@
       <span class="eyebrow">Buyers</span>
       <h2 style="margin:1rem 0 1.1rem">Buy with total confidence.</h2>
       <p class="lead">When purchasing a home, it's essential to verify the seller's rightful ownership and ensure there are no unresolved issues that could impede the transfer of title to you.</p>
-      <p style="color:var(--slate);margin-top:1rem">Problems with the title can limit property use and lead to financial loss. That's where title insurance becomes invaluable — and Legacy Group Title is here to help. We conduct thorough title searches to confirm your ownership is clear of any encumbrances, so your investment is safeguarded.</p>
+      <p style="color:var(--slate);margin-top:1rem">Problems with the title can limit property use and lead to financial loss. That's where title insurance becomes invaluable — and Legacy Title is here to help. We conduct thorough title searches to confirm your ownership is clear of any encumbrances, so your investment is safeguarded.</p>
       <div class="card" style="margin-top:1.6rem;background:var(--bg-tint);border:none">
         <div class="feature">
           <div class="feature__tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg></div>
@@ -87,7 +87,7 @@
     </div>
     <div class="reveal" data-d="1">
       <span class="eyebrow">Sellers</span>
-      <h2 style="margin:1rem 0 1.1rem">Selling your house? Legacy Group Title can help.</h2>
+      <h2 style="margin:1rem 0 1.1rem">Selling your house? Legacy Title can help.</h2>
       <p class="lead">A clean title is what keeps your sale on track. We deliver timely, accurate title commitments and clear any liens or defects on the property — with great communication every step of the way.</p>
       <p style="color:var(--slate);margin-top:1rem">Whether you're listing for sale by owner or working with a real estate agent, we're here for you.</p>
       <ul class="checklist">
@@ -194,7 +194,7 @@
       <h2 style="margin-top:1rem">Questions about your title? Let's talk.</h2>
       <p>Reach out any day of the week — including nights and weekends — and we'll make your title easy.</p>
       <div class="cta__actions">
-        <a class="btn btn-gold" href="mailto:orders@legacygrouptitle.com"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg> orders@legacygrouptitle.com</a>
+        <a class="btn btn-gold" href="mailto:orders@legacytitle.com"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg> orders@legacytitle.com</a>
         <a class="btn btn-ghost" href="tel:7044673031"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg> 704-467-3031</a>
       </div>
     </div>
@@ -221,7 +221,7 @@
       <div>
         <h5>Contact</h5>
         <ul class="footer__contact">
-          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg><a href="mailto:orders@legacygrouptitle.com">orders@legacygrouptitle.com</a></li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg><a href="mailto:orders@legacytitle.com">orders@legacytitle.com</a></li>
           <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg><a href="tel:7044673031">704-467-3031</a></li>
           <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-4.35-7-10a7 7 0 0 1 14 0c0 5.65-7 10-7 10z"/><circle cx="12" cy="11" r="2.5"/></svg><span>All counties in North &amp; South Carolina</span></li>
           <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><span>Available nights &amp; weekends</span></li>

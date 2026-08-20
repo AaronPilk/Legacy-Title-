@@ -93,7 +93,7 @@
       </div>
     </div>
     <div class="split__content reveal" data-d="1">
-      <span class="eyebrow">Welcome to Legacy Group Title</span>
+      <span class="eyebrow">Welcome to Legacy Title</span>
       <h2 style="margin:1rem 0 1.1rem">Built on a commitment to excellence.</h2>
       <p class="lead">We deliver unparalleled customer service, swift turn-around times, and a wealth of industry knowledge — with a proven track record of accurate title reports and resolving even the most complex title issues.</p>
       <p style="color:var(--slate);margin-top:1rem">We understand the importance of timely, accurate title work. Meticulous attention to detail and cutting-edge technology set us apart, and we take great pride in earning your trust and your business.</p>
@@ -211,9 +211,9 @@
       <h2 style="margin-top:1rem">Ready to open your next order?</h2>
       <p>We understand the demands of the real estate industry and are committed to serving you and your clients. Reach out any day of the week.</p>
       <div class="cta__actions">
-        <a class="btn btn-gold" href="mailto:orders@legacygrouptitle.com">
+        <a class="btn btn-gold" href="mailto:orders@legacytitle.com">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>
-          orders@legacygrouptitle.com
+          orders@legacytitle.com
         </a>
         <a class="btn btn-ghost" href="tel:7044673031">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
@@ -244,7 +244,7 @@
       <div>
         <h5>Contact</h5>
         <ul class="footer__contact">
-          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg><a href="mailto:orders@legacygrouptitle.com">orders@legacygrouptitle.com</a></li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg><a href="mailto:orders@legacytitle.com">orders@legacytitle.com</a></li>
           <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg><a href="tel:7044673031">704-467-3031</a></li>
           <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-4.35-7-10a7 7 0 0 1 14 0c0 5.65-7 10-7 10z"/><circle cx="12" cy="11" r="2.5"/></svg><span>All counties in North &amp; South Carolina</span></li>
           <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><span>Available nights &amp; weekends</span></li>
