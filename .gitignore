@@ -6,3 +6,4 @@ node_modules/
 .idea/
 .fuse_hidden*
 ._*
+_to_delete/

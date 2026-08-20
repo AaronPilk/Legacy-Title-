@@ -268,11 +268,14 @@ section { padding: clamp(4rem, 9vw, 7.5rem) 0; position: relative; }
 .partner__logo { background: #fff; border-radius: 18px; padding: 1.2rem 1.8rem; display: inline-block; box-shadow: var(--shadow-lg); }
 .partner__logo img { height: 58px; width: auto; }
 
-/* Services photo band */
-.services-photo { position: relative; overflow: hidden; }
-.services-photo__bg { position: absolute; inset: 0; z-index: -2; }
-.services-photo__bg img { width: 100%; height: 100%; object-fit: cover; object-position: center 72%; }
-.services-photo__bg::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(255,255,255,.82) 0%, rgba(255,255,255,.66) 55%, rgba(255,255,255,.8) 100%); }
+/* Services teal band */
+.services-teal { position: relative; overflow: hidden; background: linear-gradient(165deg, var(--teal-900) 0%, var(--teal-700) 100%); }
+.services-teal::before { content: ""; position: absolute; width: 360px; height: 360px; border-radius: 50%; background: rgba(242,200,100,.16); filter: blur(90px); top: -150px; right: -60px; }
+.services-teal::after { content: ""; position: absolute; width: 320px; height: 320px; border-radius: 50%; background: rgba(43,127,149,.4); filter: blur(90px); bottom: -160px; left: -60px; }
+.services-teal .wrap { position: relative; z-index: 1; }
+.services-teal .eyebrow { background: rgba(255,255,255,.12); border-color: rgba(255,255,255,.28); color: var(--gold-500); box-shadow: none; }
+.services-teal h2 { color: #fff; }
+.services-teal .lead { color: rgba(255,255,255,.85); }
 
 /* Calculator -------------------------------------------------------------- */
 .calc { background: var(--bg-soft); border-radius: var(--radius-lg); border: 1px solid var(--line); padding: clamp(1.6rem, 4vw, 3rem); box-shadow: var(--shadow); }
